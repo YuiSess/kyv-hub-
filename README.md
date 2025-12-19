@@ -3664,7 +3664,8 @@ function CheckItemBPCRBPCR(v463)
         end
     end
 end
-local v466 = loadstring(game:HttpGet("https://pastebin.com/raw/pfkwYyuB"))():MakeWindow({
+local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
+local v15 = v14:CreateWindow({
     Title = "Kyv Hub",
     SubTitle = "by Orchidzx",
     SaveFolder = "Redz | redz lib v5.lua"
